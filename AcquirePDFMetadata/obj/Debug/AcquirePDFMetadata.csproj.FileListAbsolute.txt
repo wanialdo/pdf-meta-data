@@ -1,0 +1,9 @@
+E:\Projetos\AcquirePDFMetadata\AcquirePDFMetadata\AcquirePDFMetadata\bin\Debug\AcquirePDFMetadata.exe.config
+E:\Projetos\AcquirePDFMetadata\AcquirePDFMetadata\AcquirePDFMetadata\bin\Debug\AcquirePDFMetadata.exe
+E:\Projetos\AcquirePDFMetadata\AcquirePDFMetadata\AcquirePDFMetadata\bin\Debug\AcquirePDFMetadata.pdb
+E:\Projetos\AcquirePDFMetadata\AcquirePDFMetadata\AcquirePDFMetadata\bin\Debug\itextsharp.dll
+E:\Projetos\AcquirePDFMetadata\AcquirePDFMetadata\AcquirePDFMetadata\bin\Debug\itextsharp.xml
+E:\Projetos\AcquirePDFMetadata\AcquirePDFMetadata\AcquirePDFMetadata\obj\Debug\AcquirePDFMetadata.csprojAssemblyReference.cache
+E:\Projetos\AcquirePDFMetadata\AcquirePDFMetadata\AcquirePDFMetadata\obj\Debug\AcquirePDFMetadata.csproj.CopyComplete
+E:\Projetos\AcquirePDFMetadata\AcquirePDFMetadata\AcquirePDFMetadata\obj\Debug\AcquirePDFMetadata.exe
+E:\Projetos\AcquirePDFMetadata\AcquirePDFMetadata\AcquirePDFMetadata\obj\Debug\AcquirePDFMetadata.pdb
